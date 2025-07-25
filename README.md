@@ -8,7 +8,7 @@ A simple full-stack note-taking application built with Node.js, Express, HTML, C
 
 ## 📂 GitHub Repository
 
-🔗 [https://github.com/your-username/notes-app](https://github.com/your-username/notes-app)
+🔗 https://github.com/rashid-subhani/notes-app
 
 ## ✨ Features
 
